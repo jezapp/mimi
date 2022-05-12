@@ -1,0 +1,24 @@
+.isev {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+# {
+    padding: 0;
+    margin: 0;
+    background-color: #eee;
+}
+
+.comment box {
+    top:50%;
+    position: absolute;
+    transform: translate(-50%, -50%)
+    width 500px;
+}
+
+.comment box {
+    font-size: 20px;
+    margin-bottom: 15px;
+
+}
